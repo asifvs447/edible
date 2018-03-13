@@ -1,1 +1,3 @@
-# edible
+This is test app 
+using DJango.
+
